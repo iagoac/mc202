@@ -20,14 +20,12 @@ Iago A. Carvalho (2020), MC202. Online: https://github.com/iagoac/mc202 Version 
 > @Misc{Carvalho2020MC202,  
 title={MC202},  
 author={Iago A. Carvalho},   
-howPublished={\url{https://github.com/iagoac/mc202}},  
+howPublished={\url{https&#58;//github\.com/iagoac/mc202}},  
 year={2020},  
 note={Version 1.00; GNU General Public License v3.0}  
 }
 
 
-Iago A. Carvalho
-
-iagoac@ic.unicamp.br
-
+Iago A. Carvalho  
+iagoac@ic.unicamp.br  
 [http://iagoac.github.io/](http://iagoac.github.io/ "http://iagoac.github.io/")
