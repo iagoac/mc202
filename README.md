@@ -38,7 +38,7 @@ Seis auxiliares didáticos auxiliarão os alunos durante o curso desta disciplin
 - Matteus Vargas Simão da Silva (PED) - Horário a definir
 - Thiago Henrique de Camargo Julio (PAD) - Horário a definir
  
- Posteriormente, será divulgada uma lista de e-mails onde será possível tirar dúvidas da disciplina.
+Este repositório no GitHub também servirá como fórum de dúvidas da disciplina. Cada dúvida deverá ser postada como um *Issue* [nesta página](https://github.com/iagoac/mc202/issues). Desta forma, todos os envolvidos na disciplina (o professor, auxiliares didáticos e os outros alunos) poderão ver suas dúvidas e respondelas assim que possível.
  
 ------------
 
