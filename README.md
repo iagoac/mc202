@@ -29,14 +29,14 @@ Outros links úteis para o desenvolvimento dos exercícios de laboratório são 
 
 ### Auxiliares didáticos e auxílio presencial/online
  
-Seis auxiliares didáticos auxiliarão os alunos durante o curso desta disciplina. São quatro PEDs e dois PADs. Segue uma lista dos nomes de cada auxiliar didático junto de seu horário e local de atendimento.
+Seis auxiliares didáticos auxiliarão os alunos durante o curso desta disciplina. São quatro PEDs e dois PADs. Segue uma lista dos nomes de cada auxiliar didático junto de seu horário de atendimento.
 
-- Arthur Costa Lopes (PAD) - Horário a definir
-- Brenner Humberto Ojeda Rios (PED) - Horário a definir
-- Deyvison Nogueira Rodrigues (PED) - Horário a definir
-- Enoque Alves de Castro Neto (PED) - Horário a definir
-- Matteus Vargas Simão da Silva (PED) - Horário a definir
-- Thiago Henrique de Camargo Julio (PAD) - Horário a definir
+- Arthur Costa Lopes (PAD) - Segunda feira, 18h às 19h
+- Brenner Humberto Ojeda Rios (PED) - Terça feira, 18h às 19h
+- Deyvison Nogueira Rodrigues (PED) - Quinta Feira, 18h às 19h
+- Enoque Alves de Castro Neto (PED) - Não terá horário de atendimento
+- Matteus Vargas Simão da Silva (PED) - Sexta Feira, 18h às 19h
+- Thiago Henrique de Camargo Julio (PAD) - Quarta Feira, a tarde (horário a definir dependendo da disponibilidade de laboratórios)
  
 Este repositório no GitHub também servirá como fórum de dúvidas da disciplina. Cada dúvida deverá ser postada como um *Issue* [nesta página](https://github.com/iagoac/mc202/issues). Desta forma, todos os envolvidos na disciplina (o professor, auxiliares didáticos e os outros alunos) poderão ver suas dúvidas e respondelas assim que possível.
  
