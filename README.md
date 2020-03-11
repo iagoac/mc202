@@ -42,6 +42,8 @@ Este repositório no GitHub também servirá como fórum de dúvidas da discipli
  
 ------------
 
+### Sobre o material
+
 Neste repositrio se encontram os slides, laboratórios e materiais utilizados durante a disciplina MC202 - Estruturas de Dados, originalmente desenvolvida para diversos cursos de graduação da UNICAMP. 
 
 Os slides da disciplina foram gentilmente cedidos pelo professor [Rafael C. S. Schouery](https://www.ic.unicamp.br/~rafael/ "Rafael C. S. Schouery"), do Instituto de Computação - UNICAMP. Grande parte dos slides serão utilizados *as is*, mas algumas pequenas correções poderão ser feitas durante o semestre. 
