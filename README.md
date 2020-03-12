@@ -53,7 +53,7 @@ Seis auxiliares didáticos auxiliarão os alunos durante o curso desta disciplin
 - Deyvison Nogueira Rodrigues (PED) - Quinta Feira, 18h às 19h
 - Enoque Alves de Castro Neto (PED) - Não terá horário de atendimento
 - Matteus Vargas Simão da Silva (PED) - Sexta Feira, 18h às 19h
-- Thiago Henrique de Camargo Julio (PAD) - Quarta Feira, a tarde (horário a definir dependendo da disponibilidade de laboratórios)
+- Thiago Henrique de Camargo Julio (PAD) - Quarta Feira, 16h às 17h
 
 Este repositório no GitHub também servirá como fórum de dúvidas da disciplina. Cada dúvida deverá ser postada como um *Issue* [nesta página](https://github.com/iagoac/mc202/issues). Desta forma, todos os envolvidos na disciplina (o professor, auxiliares didáticos e os outros alunos) poderão ver suas dúvidas e respondelas assim que possível.
 
