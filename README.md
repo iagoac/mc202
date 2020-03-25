@@ -2,26 +2,28 @@
 
 ## Prof. Iago A. Carvalho
 
-### Horário da disciplina
+### ~~Horário da disciplina~~
 
-- Aula teórica: Terças-feiras, 21h às 23h, sala CB05
-- Aula teórica: Quintas-feiras, 19h às 21h, sala CB04
-- Aula prática: Sextas-feiras, 21h às 23h, salas SI03, SI05, SI08, IM10
+- ~~Aula teórica: Terças-feiras, 21h às 23h, sala CB05~~
+- ~~Aula teórica: Quintas-feiras, 19h às 21h, sala CB04~~
+- ~~Aula prática: Sextas-feiras, 21h às 23h, salas SI03, SI05, SI08, IM10~~
 
 ### Histórico e planejamento de aulas
 
- - **14/04** - Introdução a linguagem C (aula 6)
- - **09/04** - Introdução a linguagem C (aula 5)
- - **07/04** - Introdução a linguagem C (aula 4)
- - **02/04** - Introdução a linguagem C (aula 3)
- - **31/03** - Introdução a linguagem C (aula 2)
+ - ~~**14/04** - Introdução a linguagem C (aula 6)~~
+ - ~~**09/04** - Introdução a linguagem C (aula 5)~~
+ - ~~**07/04** - Introdução a linguagem C (aula 4)~~
+ - ~~**02/04** - Introdução a linguagem C (aula 3)~~
+ - ~~**31/03** - Introdução a linguagem C (aula 2)~~
  - **12/03** - Introdução a linguagem C (aula 1)
- - **10/03** - Introdução a disciplina MC202
+ - **10/03** - Introdução a disciplina MC202 (aula 0)
 
+Devido ao recente surto do novo Coronavirus (COVID-19), excepcionalmente, esta disciplina será lecionada no formato EaD. Desta forma, os slides de **TODAS** as aulas já se encontram disponíveis [aqui](https://github.com/iagoac/mc202/tree/master/aulas "aqui").  
+Além disto, um conjunto de video-aulas (sobre cada um dos slides) está disponível [aqui](https://www.youtube.com/playlist?list=PLnCmBuT0CUt_0oVhcXMA3yJlQKcm3xR0W "aqui"). Notem que existem algumas aulas faltando: elas serão gravadas e liberadas o mais cedo o possível.
 
 ### Exercícios de laboratório
 
-1. Exercícios básicos de C (entrega para 19/04)
+1. Exercícios básicos de C (entrega para 26/04)
 2. Nó, apontador, variável apontadora, alocação dinâmica de memória
 3. Listas ligadas (apontadores) e listas por vetores
 4. Pilhas e filas
@@ -44,9 +46,9 @@ Outros links úteis para o desenvolvimento dos exercícios de laboratório são 
 - [Tutorial de GDB (debugger de C)](http://www.ic.unicamp.br/~rafael/materiais/gdb.html)
 - [Tutorial de Valgrind (software para verificar *leaks* de memória e *segmentation fault*)](https://www.ic.unicamp.br/~rafael/materiais/valgrind.html)
 
-### Auxiliares didáticos e auxílio presencial/online
+### Auxiliares didáticos e auxílio ~~presencial/online~~ online
 
-Seis auxiliares didáticos auxiliarão os alunos durante o curso desta disciplina. São quatro PEDs e dois PADs. Segue uma lista dos nomes de cada auxiliar didático junto de seu horário de atendimento.
+Seis auxiliares didáticos auxiliarão os alunos durante o curso desta disciplina. São quatro PEDs e dois PADs. Segue uma lista dos nomes de cada auxiliar didático junto de seu horário de atendimento. Todos os atendimentos serão realizados no *Google Meet* a partir do dia 30/03/2020.
 
 - Arthur Costa Lopes (PAD) - Segunda feira, 18h às 19h
 - Brenner Humberto Ojeda Rios (PED) - Terça feira, 18h às 19h
