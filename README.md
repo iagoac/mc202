@@ -10,11 +10,29 @@
 
 ### Histórico e planejamento de aulas
 
- - ~~**14/04** - Introdução a linguagem C (aula 6)~~
- - ~~**09/04** - Introdução a linguagem C (aula 5)~~
- - ~~**07/04** - Introdução a linguagem C (aula 4)~~
- - ~~**02/04** - Introdução a linguagem C (aula 3)~~
- - ~~**31/03** - Introdução a linguagem C (aula 2)~~
+ - **30/06** - Síntese (aula 24)
+ - **25/06** - Árvores B (aula 23)
+ - **23/06** - Grafos (aula 22)
+ - **18/06** - Grafos (aula 21)
+ - **11/06** - Grafos (aula 20)
+ - **04/06** - Mergesort e Quicksort (aula 19)
+ - **02/06** - Heapsort (aula 18)
+ - **28/05** - Fila de prioridades (aula 17)
+ - **26/05** - Árvores balanceadas (aula 16)
+ - **21/05** - Árvores de busca (aula 15)
+ - **19/05** - Árvores binárias (aula 14)
+ - **12/05** - Pilhas (aplicações) (aula 13)
+ - **07/05** - Pilhas e filas (aula 12)
+ - **05/05** - Variações de listas (aula 11)
+ - **30/04** - Listas (aula 10)
+ - **28/04** - Análise de complexidade e eficiência de algoritmos (aula 9)
+ - **23/04** - Backtraking (aula 8)
+ - **21/04** - Recursão (aula 7)
+ - **14/04** - Introdução a linguagem C (aula 6)
+ - **09/04** - Introdução a linguagem C (aula 5)
+ - **07/04** - Introdução a linguagem C (aula 4)
+ - **02/04** - Introdução a linguagem C (aula 3)
+ - **31/03** - Introdução a linguagem C (aula 2)
  - **12/03** - Introdução a linguagem C (aula 1)
  - **10/03** - Introdução a disciplina MC202 (aula 0)
 
