@@ -87,6 +87,12 @@ Os slides da disciplina foram gentilmente cedidos pelo professor [Rafael C. S. S
 
 Todos os materiais aqui são disponíveis sob a licença _GNU General Public License v3.0_. Desta forma, sintam-se livres para utilizar, distribuir e/ou modificar este material da forma que quiserem. Entretanto, lembrem-se de citar a fonte original :)
 
+### Montando o ambiente
+
+De forma a tornar menos turbulenta essa transição entre python e C, dentro da pasta Ambiente foram criados passo a passo de como ter acesso ao Linux e como compilar seus programas testando com os arquivos do Susy de forma simples e rápida. Leiam todos os README.md, lá está tudo bem explicado de como essa configuração funciona. Em caso de dúvida bastar acionar o contato no final dos README.md(s).
+
+Os passos estão numerados, a ordem de execução importa no caso!
+
 ------------
 
 ### Informações para citação
