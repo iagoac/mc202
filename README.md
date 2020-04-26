@@ -42,7 +42,7 @@ Além disto, um conjunto de video-aulas (sobre cada um dos slides) está dispon�
 ### Exercícios de laboratório
 
 1. Exercícios básicos de C (entrega para 26/04)
-2. Nó, apontador, variável apontadora, alocação dinâmica de memória
+2. Nó, apontador, variável apontadora, alocação dinâmica de memória (entrega para 03/05)
 3. Listas ligadas (apontadores) e listas por vetores
 4. Pilhas e filas
 5. Merge de listas e mergesort
