@@ -43,8 +43,8 @@ Além disto, um conjunto de video-aulas (sobre cada um dos slides) está dispon�
 
 1. Exercícios básicos de C (entrega para 26/04)
 2. Nó, apontador, variável apontadora, alocação dinâmica de memória (entrega para 03/05)
-3. Listas ligadas (apontadores) e listas por vetores
-4. Pilhas e filas
+3. Listas ligadas (apontadores) e listas por vetores (entrega para 11/05)
+4. Pilhas e filas (entrega para 18/05)
 5. Merge de listas e mergesort
 6. Listas circulares, duplamente ligadas, com cabeça, lista livre
 7. Algoritmos de ordenação
