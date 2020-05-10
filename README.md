@@ -55,7 +55,8 @@ Além disto, um conjunto de video-aulas (sobre cada um dos slides) está dispon�
 12. Algoritmos de busca em grafos: busca em largura e busca em profundidade
 
 Todos os exercícios de laboratório deverão ser realizados na linguagem **C**. Eles deverão ser submetidos através do **SuSy**, em um link a ser divulgado posteriormente.  
-O Susy compila os códigos utilizando o **gcc 4.8.5**. Mais especificamente, ele utiliza o seguinte comando para compilação: _gcc  -std=c99 -pedantic -Wall -lm -o labX *.c_
+O Susy compila os códigos utilizando o **gcc 4.8.5**. Mais especificamente, ele utiliza o seguinte comando para compilação:  
+```gcc  -std=c99 -pedantic -Wall -lm -o labX *.c```
 
 Para os alunos com dificuldades na linguagem de programação utilizada, recomenda-se o tutorial [Indo de Python para C](http://www.ic.unicamp.br/~lehilton/mc202gh/python_c/), desenvolvido pelo professor [Lehilton L. C. Pedrosa](https://www.ic.unicamp.br/~lehilton/), do Instituto de Computação - UNICAMP.
 
