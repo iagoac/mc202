@@ -74,7 +74,7 @@ Seis auxiliares didáticos auxiliarão os alunos durante o curso desta disciplin
 - Brenner Humberto Ojeda Rios (PED) - Terça feira, 18h às 19h - [https://meet.google.com/dsb-mrjr-rde](https://meet.google.com/dsb-mrjr-rde "https://meet.google.com/dsb-mrjr-rde")
 - Deyvison Nogueira Rodrigues (PED) - Quinta Feira, 18h às 19h - [https://meet.google.com/cxp-mwvi-qkr](https://meet.google.com/cxp-mwvi-qkr "https://meet.google.com/cxp-mwvi-qkr")
 - Enoque Alves de Castro Neto (PED) - Não terá horário de atendimento (principal responsável pelos laboratórios)
-- Matteus Vargas Simão da Silva (PED) - Sexta Feira, 18h às 19h - [https://meet.google.com/fun-xoky-nuw](https://meet.google.com/fun-xoky-nuw "https://meet.google.com/fun-xoky-nuw")
+- Matteus Vargas Simão da Silva (PED) - Sexta Feira, 17h às 18h - [https://meet.google.com/fun-xoky-nuw](https://meet.google.com/fun-xoky-nuw "https://meet.google.com/fun-xoky-nuw")
 - Thiago Henrique de Camargo Julio (PAD) - Quarta Feira, 16h às 17h - [https://meet.google.com/ykf-ugfq-zdn](https://meet.google.com/ykf-ugfq-zdn "https://meet.google.com/ykf-ugfq-zdn")
 
 Este repositório no GitHub também servirá como fórum de dúvidas da disciplina. Cada dúvida deverá ser postada como um *Issue* [nesta página](https://github.com/iagoac/mc202/issues). Desta forma, todos os envolvidos na disciplina (o professor, auxiliares didáticos e os outros alunos) poderão ver suas dúvidas e respondelas assim que possível.
