@@ -48,11 +48,11 @@ Além disto, um conjunto de video-aulas (sobre cada um dos slides) está dispon�
 5. Merge de listas e mergesort (entrega para 03/06)
 6. ~~Listas circulares, duplamente ligadas, com cabeça, lista livre~~
 7. Algoritmos de ordenação (entrega para 08/06)
-8. Árvores binárias: representação e percurso (recursivo)
-9. Árvores de busca
-10. Hash: conceitos e implementação com apontadores
-11. Grafos: conceito, representação por matrizes e listas ligadas
-12. Algoritmos de busca em grafos: busca em largura e busca em profundidade
+8. Árvores binárias (entrega para 19/06)
+9. ~~Árvores de busca~~
+10. Hash: conceitos e implementação com apontadores (entrega para 10/07)
+11. ~~Grafos: conceito, representação por matrizes e listas ligadas~~
+12. Algoritmos de busca em grafos: busca em largura e busca em profundidade (entrega para 10/07)
 
 Todos os exercícios de laboratório deverão ser realizados na linguagem **C**. Eles deverão ser submetidos através do **SuSy**, em um link a ser divulgado posteriormente.  
 O Susy compila os códigos utilizando o **gcc 4.8.5**. Mais especificamente, ele utiliza o seguinte comando para compilação:  
