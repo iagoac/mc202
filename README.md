@@ -10,11 +10,12 @@
 
 ### Histórico e planejamento de aulas
 
- - **30/06** - Síntese (aula 24)
- - **25/06** - Árvores B (aula 23)
+ - **02/07** - Síntese (aula 25)
+ - **30/06** - Árvores B (aula 24)
+ - **25/06** - Grafos (aula 23)
  - **23/06** - Grafos (aula 22)
  - **18/06** - Grafos (aula 21)
- - **11/06** - Grafos (aula 20)
+ - **11/06** - Hash (aula 21)
  - **04/06** - Mergesort e Quicksort (aula 19)
  - **02/06** - Heapsort (aula 18)
  - **28/05** - Fila de prioridades (aula 17)
